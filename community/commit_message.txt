@@ -1,11 +1,11 @@
-Sync: -682 MetaMask, +392 CryptoFirewall, +17 OpenPhish, +0 PhishDestroy, -881 SEAL, +3 SPMedia_DetectedURLs
+Sync: +24 MetaMask, +5 CryptoFirewall, -13 OpenPhish, +0 PhishDestroy, +26 SEAL, +1 SPMedia_DetectedURLs
 
-Total domains: 690516
+Total domains: 690555
 
 Changes:
-- MetaMask: -682
-- CryptoFirewall: +392
-- OpenPhish: +17
+- MetaMask: +24
+- CryptoFirewall: +5
+- OpenPhish: -13
 - PhishDestroy: +0
-- SEAL: -881
-- SPMedia_DetectedURLs: +3
+- SEAL: +26
+- SPMedia_DetectedURLs: +1
